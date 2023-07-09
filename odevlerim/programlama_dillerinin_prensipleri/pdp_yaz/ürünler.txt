@@ -1,0 +1,16 @@
+1 Cimento Ton 2500 OzCimento
+2 Kum m3 15 KabaKum
+3 Demir Ton 3000 OzDemir
+4 Gazbeton m3 45 YilmazGazbeton
+5 Cakil m3 15 KabaCakil
+6 YagliKirecHarci kg 25 MineralYagliKirec             
+7 Boya kg 72 FilliBoya
+8 Micir m3 20 KabaMicir
+9 Alcipan m3 9 Corex
+10 Kopukler kg 10 Poliuretan
+11 Kiremit kg 50 Marsilya
+12 Kirec m2 14 KabaKirec
+13 HasirCelik Ton 2500 YilmazHasirCelik
+14 KolonKaliplar m2 15 OzKolon
+15 Membran m2 108 Penguen 
+16 SapKatkilari kg 19 OzSap 

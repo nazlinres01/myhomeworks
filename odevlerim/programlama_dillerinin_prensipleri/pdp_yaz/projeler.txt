@@ -1,0 +1,10 @@
+001 WestsideIstanbul SahinlerHolding KEMALSAHIN  SigmaMuhendislik
+002 EmpireIstanbul MertHolding HALISKAHRIMAN IPMS
+003 ZeytinparkRezidans AydinYapi MUSTAFAAYDIN ElitMuhendislik
+004 ParkResidenceCadde BirlesikGayrimenkul GUNGORCEPNI IPMS
+005 AquaCityle EksiogluInsaat DURSUNEKSIOGLU SigmaMuhendislik
+006 MulkDiamond MulkYapi RAMADANKUMOVAUC YapiMuhendislik
+007 TualAdalarKartal DagMuhendislik MEHMETDAG ElitMuhendislik
+008 DenizIstanbulMarina KelesogluHolding MUSTAFAKELES SigmaMuhendislik
+009 FortisSinanli SinanliYapiYigitGroup RESITSINANLI IPMS
+010 NefKandilli TimurGayrimenkul ERDENTIMUR SigmaMuhendislik

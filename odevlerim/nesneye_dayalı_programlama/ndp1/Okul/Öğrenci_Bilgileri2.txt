@@ -1,0 +1,21 @@
+AA'dan 1 tane vardır.
+BA'dan 1 tane vardır.
+BB'dan 0 tane vardır.
+CB'dan 2 tane vardır.
+CC'dan 5 tane vardır.
+DC'dan 3 tane vardır.
+DD'dan 2 tane vardır.
+FD'dan 1 tane vardır.
+FF'dan 5 tane vardır.
+
+AA'dan %5 vardır.
+BA'dan %5 vardır.
+BB'dan %0 vardır.
+CB'dan %10 vardır.
+CC'dan %25 vardır.
+DC'dan %15 vardır.
+DD'dan %10 vardır.
+FD'dan %5 vardır.
+FF'dan %25 vardır.
+
+
